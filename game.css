@@ -1,0 +1,20 @@
+body {
+    background: -moz-linear-gradient(left, #efc3f7 0%, #e3ef83 100%);
+    background: -webkit-linear-gradient(left, #efc3f7 0%,#e3ef83 100%);
+    background: linear-gradient(to right, #efc3f7 0%,#e3ef83 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efc3f7', endColorstr='#e3ef83',GradientType=1 );
+    padding:none;
+    margin:0px;
+}
+#container {
+    width:95%;
+    margin-left:auto;
+    margin-right:auto;
+    padding:none;
+}
+
+#game {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
